@@ -27,11 +27,8 @@ SPRING 프레임워크를 이용한 사이트 제작으로, 크롤링을 활용�
 
 
 # 팀원구성
+![조원소개](https://user-images.githubusercontent.com/94958973/151403037-708bd086-2ced-46a5-b5a3-d3f15c8ac554.jpg)
 
-- 
-- 김원규
-- 도상우
-- 허건희
 
 # 개발환경
 
@@ -52,35 +49,29 @@ SPRING 프레임워크를 이용한 사이트 제작으로, 크롤링을 활용�
 
 # DB ERD
 
-[![KakaoTalk_20211129_160903674](https://github.com/Kimwonkyu-korea/MultiCinema/raw/master/README.assets/KakaoTalk_20211129_160903674.png)](https://github.com/Kimwonkyu-korea/MultiCinema/blob/master/README.assets/KakaoTalk_20211129_160903674.png)
+![DB설계](https://user-images.githubusercontent.com/94958973/151402972-96773a69-c403-4a0b-9bb7-76784b34b3e8.jpg)
+
 
 # 페이지 소개
 
-[![1](https://github.com/Kimwonkyu-korea/MultiCinema/raw/master/README.assets/1.png)](https://github.com/Kimwonkyu-korea/MultiCinema/blob/master/README.assets/1.png)
-
-[![2](https://github.com/Kimwonkyu-korea/MultiCinema/raw/master/README.assets/2.png)](https://github.com/Kimwonkyu-korea/MultiCinema/blob/master/README.assets/2.png)
-
-[![3](https://github.com/Kimwonkyu-korea/MultiCinema/raw/master/README.assets/3.png)](https://github.com/Kimwonkyu-korea/MultiCinema/blob/master/README.assets/3.png)
-
-[![4](https://github.com/Kimwonkyu-korea/MultiCinema/raw/master/README.assets/4.png)](https://github.com/Kimwonkyu-korea/MultiCinema/blob/master/README.assets/4.png)
-
-[![5](https://github.com/Kimwonkyu-korea/MultiCinema/raw/master/README.assets/5.png)](https://github.com/Kimwonkyu-korea/MultiCinema/blob/master/README.assets/5.png)
-
-[![6](https://github.com/Kimwonkyu-korea/MultiCinema/raw/master/README.assets/6.png)](https://github.com/Kimwonkyu-korea/MultiCinema/blob/master/README.assets/6.png)
-
-[![7](https://github.com/Kimwonkyu-korea/MultiCinema/raw/master/README.assets/7.png)](https://github.com/Kimwonkyu-korea/MultiCinema/blob/master/README.assets/7.png)
-
-[![8](https://github.com/Kimwonkyu-korea/MultiCinema/raw/master/README.assets/8.png)](https://github.com/Kimwonkyu-korea/MultiCinema/blob/master/README.assets/8.png)
-
-[![9](https://github.com/Kimwonkyu-korea/MultiCinema/raw/master/README.assets/9.png)](https://github.com/Kimwonkyu-korea/MultiCinema/blob/master/README.assets/9.png)
-
-[![10](https://github.com/Kimwonkyu-korea/MultiCinema/raw/master/README.assets/10.png)](https://github.com/Kimwonkyu-korea/MultiCinema/blob/master/README.assets/10.png)
-
-[![11](https://github.com/Kimwonkyu-korea/MultiCinema/raw/master/README.assets/11.png)](https://github.com/Kimwonkyu-korea/MultiCinema/blob/master/README.assets/11.png)
-
-[![12](https://github.com/Kimwonkyu-korea/MultiCinema/raw/master/README.assets/12.png)](https://github.com/Kimwonkyu-korea/MultiCinema/blob/master/README.assets/12.png)
-
-[![13](https://github.com/Kimwonkyu-korea/MultiCinema/raw/master/README.assets/13.png)](https://github.com/Kimwonkyu-korea/MultiCinema/blob/master/README.assets/13.png)
+![3-1 메인](https://user-images.githubusercontent.com/94958973/151403159-ffc0dc46-1591-44fc-8c2a-e7b812ada3bd.jpg)
+![3-1 메인-파이썬 크롤링하기](https://user-images.githubusercontent.com/94958973/151403174-70b259fb-cdc2-4726-b6d0-8096ef964c61.jpg)
+![3-2 회원가입](https://user-images.githubusercontent.com/94958973/151403184-82a0a150-4423-4ced-9a0d-b9154b7cef91.jpg)
+![3-3 ID찾기](https://user-images.githubusercontent.com/94958973/151403228-ef87bf71-af73-4794-b0c6-ad5dfbaf33d3.jpg)
+![3-3 ID찾기](https://user-images.githubusercontent.com/94958973/151403241-ed8a45e7-b430-4a78-843e-fd10302cb0f7.jpg)
+![3-3로그인](https://user-images.githubusercontent.com/94958973/151403269-d568c138-8942-4610-ab71-e76ccde1d803.jpg)
+![3-4 내정보](https://user-images.githubusercontent.com/94958973/151403281-198cf060-0b48-4a89-85e1-abca3923ee12.jpg)
+![3-5 자유게시판](https://user-images.githubusercontent.com/94958973/151403289-cf556485-2edf-4c0a-9712-28e633099a80.jpg)
+![3-5 자유게시판2](https://user-images.githubusercontent.com/94958973/151403300-d38e237f-e062-4831-bf5e-233ebdcbd0b4.jpg)
+![3-6 후기](https://user-images.githubusercontent.com/94958973/151403311-f362cd5c-2ddc-436f-a055-4cb6dc33c8a9.jpg)
+![3-6 후기 상세페이지2](https://user-images.githubusercontent.com/94958973/151403385-d3759dfd-3029-483a-8634-43c7acbfdc0a.jpg)
+![3-7 함께해요](https://user-images.githubusercontent.com/94958973/151403439-474bcfe5-824d-4e71-ad43-50a3bb7d98ad.jpg)
+![3-7 함계해요2](https://user-images.githubusercontent.com/94958973/151403451-4a5153d5-af3d-4499-8f76-6ffa36b2bd88.jpg)
+![3-8이벤트](https://user-images.githubusercontent.com/94958973/151403463-8a04d01e-ccb1-4e05-94e9-97d852144ad0.jpg)
+![3-8 이벤트 관리자2](https://user-images.githubusercontent.com/94958973/151403476-72696147-9186-4890-830c-0fcdc581bfd9.jpg)
+![3-8 이벤트관리자3](https://user-images.githubusercontent.com/94958973/151403483-0ffc05b2-21b0-4905-b6ae-5977a8bc7380.jpg)
+![3-9 맛집지도](https://user-images.githubusercontent.com/94958973/151403491-4a7151c2-06e9-4296-ae3e-987414206cca.jpg)
+![3-9 맛집지도2](https://user-images.githubusercontent.com/94958973/151403506-fb4efe8f-c49f-41ab-a5f3-e6db9431b8e6.jpg)
 
 # 성과
 
