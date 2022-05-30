@@ -32,7 +32,7 @@ SPRING 프레임워크를 이용한 사이트 제작으로, 크롤링을 활용�
 
 # 개발환경
 
-- Front-end : javascript / jquery / bootstrap / jupyter
+- Front-end : javascript / jquery / bootstrap /
 - Back-end : java / spring framework
 - DB : oracle
 - OS : windows 10
@@ -66,9 +66,6 @@ SPRING 프레임워크를 이용한 사이트 제작으로, 크롤링을 활용�
 ![3-7 함계해요2](https://user-images.githubusercontent.com/94958973/151403451-4a5153d5-af3d-4499-8f76-6ffa36b2bd88.jpg)
 ![3-8이벤트](https://user-images.githubusercontent.com/94958973/151403463-8a04d01e-ccb1-4e05-94e9-97d852144ad0.jpg)
 ![3-8 이벤트 관리자2](https://user-images.githubusercontent.com/94958973/151403476-72696147-9186-4890-830c-0fcdc581bfd9.jpg)
-![3-9 맛집지도](https://user-images.githubusercontent.com/94958973/151403491-4a7151c2-06e9-4296-ae3e-987414206cca.jpg)
-![3-9 맛집지도2](https://user-images.githubusercontent.com/94958973/151403506-fb4efe8f-c49f-41ab-a5f3-e6db9431b8e6.jpg)
-
 # 성과
 
 스프링 프레임워크를 사용하지 않았던 세미 JSP프로젝트보다 작업속도가 향상되었으며, 초반 작업 설정 부분에 있어서 시간이 훨씬 단축되었다. 이에 따라, 각자가 부족한 부분과 해보고 싶었던 기능을 직접 찾아가면서 공부할 수 있는 시간이 늘어나 더 많은 발전을 할 수 있는 기회가 되었다.
